@@ -1,0 +1,23 @@
+1、什么是python？
+    维基百科上的列出了成千上万编程语言，也许你也听说或者用过它们的一门或者多门，
+    像Java，Perl、c、c++,C#等等，Python只是其中的一门编程语言而已。
+    它能让您更快地，更有效地和系统集成。
+    (Python is a programming language that lets you work quickly 
+    and integrate systems more effectively.) 
+2、python的特点
+    1、简单易学：python是一种代表简单思想的语言
+    2、高层语言：使用python编写程序时，无需考虑如何管理程序使用的内存一类的底层细节。
+    3、可移植性：Python已被移植到很多平台这些平台包括Linux、Windows、FreeBSD、Macintosh、
+        Solaris、OS/2、Amiga、AROS、AS/400、BeOS、OS/390、z/OS、Palm、OS、QNX、VMS、
+        Psion、Acom RISC OS、VxWorks、PlayStation、Sharp Zaurus、Windows CE甚至还有PocketPC。 
+    4、丰富的库：Python标准库确实很庞大。它可以帮助你处理各种工作，包括正则表达式、文档生成、
+        单元测试、线程、数据库、网页浏览器、CGI、FTP、电子邮件、XML、XMLRPC、HTML、WAV文件、
+        密码系统、GUI（图形用户界面)等有关的操作。 
+    5、代码具备高度的可读性
+    总之：python的设计哲学是“优雅”、“明确”、“简单”。
+3、学了之后能做什么？
+    1）开发web网站
+    2）爬虫工程师
+    3）大数据分析
+    4）人工智能
+    5）自动化运维和自动化测试
